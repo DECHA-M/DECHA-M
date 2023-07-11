@@ -11,6 +11,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<P><B>MY PROFILE</B></P>
 ### :woman_technologist: About Me : Currenlty, I am a full time Civil Officer (IT) in Bangkok.
 
 <br> <b><u>Education :</u> </b><br> 
