@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### :woman_technologist: About Me : I am a full time Civil Officer in Bangkok.
+### :woman_technologist: About Me : Currenlty, I am a full time Civil Officer (IT) in Bangkok.
 
 <br> <b><u>Education :</u> </b><br> 
 Joint Master’s Program  in Health Informatics, Karolinska Institutet & Stockholm University, Sweden 2014 <br>
