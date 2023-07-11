@@ -57,7 +57,7 @@ Joint Master’s Program  in <b>Health Informatics </b>, Karolinska Institutet &
 <p>• Tableau</p>
 <p>• Basic R Programming</p>
 <p>• Basic Data Engineer</p>
-
+<p>• ICD10 </p>
 <!---
 DECHA-M/DECHA-M is a  special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
