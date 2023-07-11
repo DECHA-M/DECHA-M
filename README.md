@@ -21,7 +21,14 @@ Joint Master’s Program  in Health Informatics, Karolinska Institutet & Stockho
 <b>Work Experiences</b>
 <br>11 เมษายน 2565 – ปัจจุบัน นักวิชาการคอมพิวเตอร์ชำนาญการ (ข้าราชการพลเรือนสามัญ)  </br>
 <br>1 ธันวาคม 2560 – 10 เมษายน 2565 ปัจจุบัน  นักวิชาการคอมพิวเตอร์ปฏิบัติการ (ข้าราชการพลเรือนสามัญ)  ส่วนพัฒนาระบบประสานเครือข่ายภายนอก ศูนย์เทคโนโลยีสารสนเทศ  สำนักงบประมาณ</br>
-
+<br>2 กุมภาพันธ์ 2558 – 30 กันยายน 2559   - หัวหน้างาน (เจ้าหน้าที่หลักประกันสุขภาพฯ) สำนักงานหลักประกันสุขภาพแห่งชาติ เขต 8 อุดรธานี</br>
+<br>• จัดทำสถิติและวิเคราะห์ข้อมูลสุขภาพ</br>
+<br>• จัดทำข้อมูลความจำเป็นพื้นที่ (Health Needs Assessment) </br>
+<br>• เขียนโปรแกรม Web (PHP)</br>
+<br>• ออกแบบฐานข้อมูล </br>
+<br>• จัดทำ และติดตาม KPI เขตพื้นที่ </br>
+<br>• จัดสรรและบริหารงบกองทุนผู้ป่วยนอกและผู้ป่วยในของเขตพื้นที่</br>
+</br>
 <!---
 DECHA-M/DECHA-M is a  special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
