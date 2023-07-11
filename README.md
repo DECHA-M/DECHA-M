@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning Python and German.
 - 💞️ I’m kind of person who learn all of my life and I like travelling.
 - 📫 How to reach me (sidecha@gmail.com)
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!---
 DECHA-M/DECHA-M is a  special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
