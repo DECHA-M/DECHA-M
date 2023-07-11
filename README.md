@@ -15,10 +15,10 @@
 ### :woman_technologist: About Me : Currenlty, I am a full time Civil Officer (IT) in Bangkok.
 
 <br> <b><u>Education :</u> </b><br> 
-Joint Master’s Program  in Health Informatics, Karolinska Institutet & Stockholm University, Sweden 2014 <br>
-<p>Master of Science in Business Systems Integration (with SAP Technology), Brunel University, 2009 </p>
-<p>Master of Science in IT. Mahidol University, 1997 </p>
-<p>Bachelor of Science in Medical Record , Mahidol University, 1993 </p>
+Joint Master’s Program  in <b>Health Informatics </b>, Karolinska Institutet & Stockholm University, Sweden 2014 <br>
+<p>Master of Science in <b> Business Systems Integration (with SAP Technology)</b>, Brunel University, 2009 </p>
+<p>Master of Science in<b> Information Technology </b> Mahidol University, 1997 </p>
+<p>Bachelor of Science in <b>Medical Record </b>, Mahidol University, 1993 </p>
 <b>Work Experiences</b>
 <p><b>11 เมษายน 2565 – ปัจจุบัน </b> นักวิชาการคอมพิวเตอร์ชำนาญการ (ข้าราชการ)</p>
 <p><b>1 ธันวาคม 2560 – 10 เมษายน 2565 </b> นักวิชาการคอมพิวเตอร์ปฏิบัติการ (ข้าราชการพลเรือนสามัญ)  ส่วนพัฒนาระบบประสานเครือข่ายภายนอก ศูนย์เทคโนโลยีสารสนเทศ  สำนักงบประมาณ</p>
