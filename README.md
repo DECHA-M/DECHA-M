@@ -29,6 +29,22 @@ Joint Master’s Program  in Health Informatics, Karolinska Institutet & Stockho
 <br>• จัดทำ และติดตาม KPI เขตพื้นที่ </br>
 <br>• จัดสรรและบริหารงบกองทุนผู้ป่วยนอกและผู้ป่วยในและคุณภาพบริการของเขตพื้นที่</br>
 </br>
+
+<br>
+30 เมษายน 2547 – 2 กันยายน 2555 นักวิชาการคอมพิวเตอร์ (ชื่อเดิม นักวิเคราะห์ระบบงานคอมพิวเตอร์)  (พนักงานมหาวิทยาลัย)
+ ฝายสารสนเทศ คณะแพทยศาสตร์ศิริราชพยาบาล มหาวิทยาลัยมหิดล </br>
+<br>• เข้าร่วมบริหารโครงการสารสนเทศ
+  > โครงการระบบสารสนเทศโรงพยาบาล  (Software Configuration, Master Data Setup, Workflow and  UAT)
+  > โครงการระบบคลังข้อมูล รพ ศิริราช (SAP-BW, XI) –ETL, Configuration and UAT
+• ออกแบบระบบและฐานข้อมูล </br>
+<br> 2 เมษายน 2544 – 29 เมษายน 2547  โปรแกรมเมอร์  (พนักงานมหาวิทยาลัย)
+ งานเวชสารสนเทศ คณะแพทยศาสตร์ศิริราชพยาบาล มหาวิทยาลัยมหิดล   /<br>
+
+<br>   • บริหารจัดการ Website คณะแพทยศาสตร์ศิริราชพยาบาล (IIS Configuation, FTP Setup, Disk Management, Security and Backup)
+• เขียนโปรแกรม Web Database Programming  (ASP ระบบ Sirirajonline ถามตอบ ปรึกษาปัญหาสุขภาพ Online) และออกแบบฐานข้อมูล (MS-SQL Server)
+• บริหารจัดการบัญชีรายชื่อผู้ใช้งานบน Web 
+• จัดทำคู่มือและสอนการสร้าง WebPage ให้กับตัวแทนบุคลากรภาควิชาฯ      </br>
+
 <!---
 DECHA-M/DECHA-M is a  special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
