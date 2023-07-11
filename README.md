@@ -13,7 +13,7 @@
 </div>
 ### :woman_technologist: About Me : I am a full time Civil Officer in Bangkok.
 
-<br> Education : <br> 
+<br> <b><u>Education :</u> </b><br> 
 Joint Master’s Program  in Health Informatics, Karolinska Institutet & Stockholm University, Sweden 2014 <br>
 <p>Master of Science in Business Systems Integration (with SAP Technology), Brunel University, 2009 </p>
 <p>Master of Science in IT. Mahidol University, 1997 </p>
