@@ -18,7 +18,9 @@ Joint Master’s Program  in Health Informatics, Karolinska Institutet & Stockho
 <p>Master of Science in Business Systems Integration (with SAP Technology), Brunel University, 2009 </p>
 <p>Master of Science in IT. Mahidol University, 1997 </p>
 <p>Bachelor of Science in Medical Record , Mahidol University, 1993 </p>
-
+<b>Work Experiences</b>
+<b>11 เมษายน 2565 – ปัจจุบัน นักวิชาการคอมพิวเตอร์ชำนาญการ (ข้าราชการพลเรือนสามัญ)  </b>
+<br>1 ธันวาคม 2560 – 10 เมษายน 2565 ปัจจุบัน  นักวิชาการคอมพิวเตอร์ปฏิบัติการ (ข้าราชการพลเรือนสามัญ)  ส่วนพัฒนาระบบประสานเครือข่ายภายนอก ศูนย์เทคโนโลยีสารสนเทศ  สำนักงบประมาณ</br>
 
 <!---
 DECHA-M/DECHA-M is a  special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
