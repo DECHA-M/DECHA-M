@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DECHA from Bangkok Thailand
 - ✨ I have been working as Computer Technical Officer in BKK since 2017.
-- 👀 I’m interested in new things around the globe.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in new things around the globe, especially languages.
+- 🌱 I’m currently learning Python and German.
+- 💞️ I’m kind of person who learn all of my life and I like travelling.
 - 📫 How to reach me (sidecha@gmail.com)
 
 <!---
