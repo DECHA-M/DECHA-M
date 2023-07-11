@@ -27,7 +27,7 @@ Joint Master’s Program  in Health Informatics, Karolinska Institutet & Stockho
 <br>• เขียนโปรแกรม Web (PHP)</br>
 <br>• ออกแบบฐานข้อมูล </br>
 <br>• จัดทำ และติดตาม KPI เขตพื้นที่ </br>
-<br>• จัดสรรและบริหารงบกองทุนผู้ป่วยนอกและผู้ป่วยในของเขตพื้นที่</br>
+<br>• จัดสรรและบริหารงบกองทุนผู้ป่วยนอกและผู้ป่วยในและคุณภาพบริการของเขตพื้นที่</br>
 </br>
 <!---
 DECHA-M/DECHA-M is a  special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
