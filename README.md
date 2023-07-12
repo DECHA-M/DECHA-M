@@ -58,6 +58,14 @@ Joint Master’s Program  in <b>Health Informatics </b>, Karolinska Institutet &
 <p>• Basic R Programming</p>
 <p>• Basic Data Engineer</p>
 <p>• ICD10 </p>
+<p><b>ทักษะด้านวิชาชีพ (คอมพิวเตอร์) </b></p>
+<p>• Programming Languages  PHP, ASP and JavaScript </p>
+<p>• Databases : MS-SQL Server, MYSQL, Oracle </p>
+<p>• Application Development Tools : Dreamweaver and  MS-Visual Studio</p>
+<p>• BI -Tool: Tableau</p>
+<p>• Statistical Analysis Software:  R Programming</p>
+
+
 <!---
 DECHA-M/DECHA-M is a  special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
