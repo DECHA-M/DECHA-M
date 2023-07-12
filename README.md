@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DECHA from Bangkok Thailand
 - ✨ I have been working as Computer Technical Officer in BKK since 2017.
 - 👀 I’m interested in healthcare information and health data analysis.
-- 🌱 I’m currently learning R and German language.
+- 🌱 I’m currently learning R and Basic German.
 - 💞️ I’m kind of person who learn all of my life and I like travelling.
 - 📫 How to reach me (sidecha@gmail.com)
 <div id="header" align="center">
