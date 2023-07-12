@@ -58,7 +58,7 @@ Joint Master’s Program  in <b>Health Informatics </b>, Karolinska Institutet &
 <p>• Basic R Programming</p>
 <p>• Basic Data Engineer</p>
 <p>• ICD10 </p>
-<p><b>ทักษะด้านวิชาชีพ (คอมพิวเตอร์) </b></p>
+<p><b><font color='red'>ทักษะด้านวิชาชีพ (คอมพิวเตอร์) </font></b></p>
 <p>• Programming Languages  PHP, ASP and JavaScript </p>
 <p>• Databases : MS-SQL Server, MYSQL, Oracle </p>
 <p>• Application Development Tools : Dreamweaver and  MS-Visual Studio</p>
